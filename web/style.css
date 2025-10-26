@@ -543,7 +543,7 @@
 
             .nav-links {
                 position: fixed;
-                top: 1370%;
+                top: 845px;
                 left: 0;
                 right: 0;
                 background: var(--bg-darker);
