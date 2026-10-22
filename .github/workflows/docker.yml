@@ -29,3 +29,4 @@ jobs:
       - name: Trigger Portainer webhook
         run: |
           curl -X POST ${{ secrets.PORTAINER_WEBHOOK_URL }}
+
